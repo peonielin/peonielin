@@ -1,6 +1,6 @@
 ### Hey there 👀
 
-I'm an aspiring software engineer with a knack for user problems. I love understanding the chaos, then building something simple and solid to solve it.
+I'm Peonie, an aspiring software engineer with a knack for user problems. I love understanding the chaos, then building something simple and solid to solve it.
 
 🧿 **These days I’m focused on:**
 
