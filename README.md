@@ -1,4 +1,17 @@
-## Hey there 👋
+### Hey there 👋
+
+I'm an aspiring software engineer with a knack for user problems. I love understanding the chaos, then building something simple and solid to solve it.
+
+:nazar_amulet:**These days I’m focused on:**
+
+* HTML,CSS and jaavscript
+* React & Node.js
+
+🔨:**Some stuff I've built**
+* [Calculator](https://github.com/peonielin/the-odin-project/tree/main/javascript/calculator) - A calculator!
+* [Etch and Sketch](https://github.com/peonielin/the-odin-project/tree/main/javascript/EAS) - A sketching pad in your local browser you can resize up to 100 grid per side.
+
+
 
 <!--
 **peonielin/peonielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
