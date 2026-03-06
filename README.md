@@ -4,7 +4,7 @@ I'm Peonie, an aspiring software engineer with a knack for user problems. I love
 
 🧿 **These days I’m focused on:**
 
-* HTML,CSS and jaavscript
+* HTML,CSS and javascript
 * React & Node.js
   
 ---
