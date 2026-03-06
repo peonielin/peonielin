@@ -12,7 +12,7 @@ I'm Peonie, an aspiring software engineer with a knack for user problems. I love
 🔨 **Some stuff I've built**
 * [Calculator](https://github.com/peonielin/the-odin-project/tree/main/javascript/calculator) - A calculator!
 * [Etch and Sketch](https://github.com/peonielin/the-odin-project/tree/main/javascript/EAS) - A sketching pad in your local browser you can resize up to 100 grid per side.
-
+* [Vintage Manual Counter](https://github.com/peonielin/counter-app) - A counter for your goals based on an vintage manual counter clicker. 
 
 
 
